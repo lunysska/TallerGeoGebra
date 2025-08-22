@@ -19,3 +19,7 @@ En su versión de celular,
 Encuentra soluciones <br>
 Ejemplo:
 "En una granja hay cerdos y pavos. En total hay 35 cabezas y 116 patas. ¿Cuántos cerdos y cuántos pavos hay?". 
+
+## GeoGebra Notes
+
+A probarla! :)
