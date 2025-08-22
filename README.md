@@ -6,9 +6,16 @@ Es un taller corto de GeoGebra para la clase de Cálculo I, Facultad de Ciencias
 
 ## GeoGebra Math Solver 
 En su versión de celular, 
+
+  ### Con respecto a ecuaciones
 - Permite tomar una foto de un problema (ecuación). Ejemplo: $x^{2} - 5x +6 = 0$
 - Muestra la solución
 - Muestra la gráfica
 - Muestra los pasos que se siguieron para la solución
 - Muestra ejemplos similares
 - Si hay errores piden enviarlos
+
+### Con respecto a especificación de problemas
+Encuentra soluciones, 
+Ejemplo:
+"En una granja hay cerdos y pavos. En total hay 35 cabezas y 116 patas. ¿Cuántos cerdos y cuántos pavos hay?". 
