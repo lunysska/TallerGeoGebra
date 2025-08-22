@@ -11,4 +11,4 @@ En su versión de celular,
 - Muestra la gráfica
 - Muestra los pasos que se siguieron para la solución
 - Muestra ejemplos similares
-- Si hay errores piden enseñarlos
+- Si hay errores piden enviarlos
