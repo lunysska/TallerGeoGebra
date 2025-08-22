@@ -34,6 +34,6 @@ $(x-2)^{2}+(y+1)^{2}= 10$, ecuación canónica<br>
   Mostrar también para sus opciones avanzadas, en la opción "Algebra", que se puede obtener la ecuación en su fórmula general
 - Crear la circunferencia usando la opcion de "centro + 1 punto"<br>
   mostrar la ecuación <br>
-  medir el radio<br>
+  medir el radio (usando un segmento de recta)<br>
   
   
