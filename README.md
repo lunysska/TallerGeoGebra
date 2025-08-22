@@ -28,4 +28,7 @@ A probarla! :)
 - Crear una circunferencia, usando las opciones de las herramientas de GeoGebra Geometría
 - Crear la circunferencia por fórmula.<br>
 Ejemplo:
-$x^{2}+y^{2}= 4$, ecuación canónica con centro en el origen
+$x^{2}+y^{2}= 4$, ecuación canónica con centro en el origen<br>
+Ejemplo:
+$(x-2)^{2}+(y+1)^{2}= 10$, ecuación canónica con centro en el origen<br>
+
