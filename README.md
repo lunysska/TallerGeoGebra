@@ -16,6 +16,6 @@ En su versión de celular,
 - Si hay errores piden enviarlos
 
 ### Con respecto a especificación de problemas
-Encuentra soluciones, 
+Encuentra soluciones <br>
 Ejemplo:
 "En una granja hay cerdos y pavos. En total hay 35 cabezas y 116 patas. ¿Cuántos cerdos y cuántos pavos hay?". 
