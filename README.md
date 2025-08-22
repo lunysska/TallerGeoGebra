@@ -30,5 +30,5 @@ A probarla! :)
 Ejemplo:
 $x^{2}+y^{2}= 4$, ecuación canónica con centro en el origen<br>
 Ejemplo:
-$(x-2)^{2}+(y+1)^{2}= 10$, ecuación canónica con centro en el origen<br>
+$(x-2)^{2}+(y+1)^{2}= 10$, ecuación canónica<br>
 
