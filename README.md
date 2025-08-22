@@ -23,3 +23,8 @@ Ejemplo:
 ## GeoGebra Notes
 
 A probarla! :)
+
+## Figuras geométricas
+- Crear una circunferencia, usando las opciones de las herramientas de GeoGebra Geometría
+- Crear la circunferencia por fórmula.<br>
+Ejemplo:
