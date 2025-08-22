@@ -28,3 +28,4 @@ A probarla! :)
 - Crear una circunferencia, usando las opciones de las herramientas de GeoGebra Geometría
 - Crear la circunferencia por fórmula.<br>
 Ejemplo:
+$x^{2}+y^{2}= 4$
